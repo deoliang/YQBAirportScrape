@@ -17,7 +17,7 @@ node scrape.js
 ```
 
 # Data Source
-[Québec City Jean Lesage International Airport](http://www.aeroportdequebec.com/en/flights-and-destinations/flight-schedules/departures)
+[Québec City Jean Lesage International Airport Departures](http://www.aeroportdequebec.com/en/flights-and-destinations/flight-schedules/departures)
 
 # Reference
 [Cheerio Documentation](https://cheerio.js.org/)
